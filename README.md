@@ -5,4 +5,4 @@ Edit the config (Rocket\Plugins\GroupToggler\GroupToggler.configuration.xml) to 
 
 Command usage: /grouptoggle, /gtoggle or /gt
 
-Permission:
+Permission: GroupToggler.Command.GroupToggleCommand (make sure to put in a different group than the one being toggled)
